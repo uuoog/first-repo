@@ -1,2 +1,4 @@
 n1 = 100
-print(n2)
+print(n1)
+n2 = 200
+print (n2)
